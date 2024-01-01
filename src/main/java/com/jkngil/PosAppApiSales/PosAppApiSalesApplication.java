@@ -1,13 +1,13 @@
-package com.jkngil.PosAppApiSell;
+package com.jkngil.PosAppApiSales;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PosAppApiSellApplication {
+public class PosAppApiSalesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PosAppApiSellApplication.class, args);
+		SpringApplication.run(PosAppApiSalesApplication.class, args);
 	}
 
 }
